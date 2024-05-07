@@ -1,32 +1,27 @@
-## Thank you for purchasing Folio - Creative Agency Portfolio Theme ##
+## Client Work 2024 ##
 
-Once you have downloaded the package, after template extracting, you will see the following files & directory structure:
+Run this locally:
 
+1. From the termincal, install NPX
 ```
-docs/
-  ├──  index.html 
-template/
-  ├──  assets
-  │   ├──  CSS/
-  │   ├──  images/
-  │   ├──  include/
-  │   ├──  js/
-  │   ├──  scss/
-  │   └──  vendor/
-  └── All template HTML files
-gulpfile.js
-package.JSON
-package-lock.JSON
-README.MD
+sudo apt install npm
+```
+2. Download this repository code to your computer.
+
+3. From the root of this folder, type:
+```
+npm install
 ```
 
-#### Templates and Assets
+4. Once complete, start the server:
+```
+npm run dev
+```
 
-The `template` directory contains all the template files and static resources. To view, just open in your favorite browser!
 
 #### Gulpfile.js
 
-We've also included an optional Gulp file to help you get started with theme customization. You’ll need to install Node.js and Gulp before using our included gulpfile.js.
+There is an included an optional Gulp file to help you get started with theme customization. You’ll need to install Node.js and Gulp before using our included gulpfile.js.
 
 To install Node visit [https://nodejs.org/download](https://nodejs.org/download/).
 
@@ -46,7 +41,3 @@ From here, simply run `gulp` from your terminal and you're good to go!
 
 + `gulp` - recompiles your theme assets.
 
-
-#### Support
-
-If you stuck with any issues or need help/have queries, Please read our documentation included in the package. If you are still not finding any solution, Kindly head over to our [support forum](https://support.webestica.com) and we will be getting in touch with you ASAP.
