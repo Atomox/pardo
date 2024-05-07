@@ -1,13 +1,13 @@
 {
-  "name": "folio",
-  "version": "1.2.3",
+  "name": "Cherner",
+  "version": "0.0.1",
   "description": "bootstrap based html template",
   "main": "gulpfile.js",
   "scripts": {
     "dev": "npx http-server ./template",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "webestica",
+  "author": "Cherner",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.27.10",
