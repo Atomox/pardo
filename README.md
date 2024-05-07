@@ -1,14 +1,15 @@
 ## Client Work 2024 ##
 
-Run this locally:
+To run this locally, we'll need to install NPM, so we can install the package.json, and get the local webserver, called http-server.
 
-1. From the termincal, install NPX
+1. From the termincal, install NPM (Node Package Manager)
 ```
 sudo apt install npm
 ```
+
 2. Download this repository code to your computer.
 
-3. From the root of this folder, type:
+3. From the root of this folder, run the install for this package. This will install all the dependencies, including http-server, which will allow you to run this locally.
 ```
 npm install
 ```
@@ -16,6 +17,11 @@ npm install
 4. Once complete, start the server:
 ```
 npm run dev
+```
+
+5. From your browser, open the website, by visiting:
+```
+http://127.0.0.1:8080/index.html
 ```
 
 
