@@ -2,7 +2,7 @@
 
 To run this locally, we'll need to install NPM, so we can install the package.json, and get the local webserver, called http-server.
 
-1. From the termincal, install NPM (Node Package Manager)
+1. From the terminal, install NPM (Node Package Manager)
 ```
 sudo apt install npm
 ```
